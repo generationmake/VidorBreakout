@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/bernhard/projects/VidorBreakout/kicad_source/vidorbreakout.sch)
-    (date "So 23 Feb 2020 22:15:27 CET")
+    (date "Mi 26 Feb 2020 08:50:24 CET")
     (tool "Eeschema 5.1.5-52549c5~84~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -28,7 +28,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5E305119))
     (comp (ref D1)
-      (value "Led yellow")
+      (value 150060YS75000)
       (footprint LEDs:LED_0603)
       (libsource (lib devices) (part Led_Small) (description Led))
       (sheetpath (names /) (tstamps /))
