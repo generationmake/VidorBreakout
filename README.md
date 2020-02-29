@@ -13,3 +13,7 @@ Breakout board for the Mini PCIe connector of the Arduino MKR Vidor 4000.
 
 ![VidorBreakout PCB bot](docs/images/VidorBreakout_bot.png)
 
+## License
+
+This hardware is licensed under the CERN OHL v. 1.2
+

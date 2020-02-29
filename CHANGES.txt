@@ -1,0 +1,11 @@
+VidorBreakout - Breakout board for the Mini PCIe connector of the Arduino MKR Vidor 4000
+see full project documentation at https://github.com/generationmake/VidorBreakout
+
+changes
+
+version 1.0 - 2020-02-29
+* initial release
+
+
+
+
