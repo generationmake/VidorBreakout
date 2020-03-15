@@ -11,10 +11,10 @@
 
   (page A4)
   (title_block
-    (title VidorCameraAdapter)
+    (title VidorBreakout)
     (date 2020-02-05)
-    (rev 0.1)
-    (company 107-systems)
+    (rev 1.0)
+    (company generationmake)
   )
 
   (layers
