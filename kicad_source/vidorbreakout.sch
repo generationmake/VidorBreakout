@@ -11,7 +11,7 @@ Comp "generationmake"
 Comment1 ""
 Comment2 ""
 Comment3 ""
-Comment4 ""
+Comment4 "This documentation describes Open Hardware and is licensed under the CERN OHL v. 1.2."
 $EndDescr
 $Comp
 L power-supply:GND #PWR0101
@@ -640,4 +640,8 @@ Wire Wire Line
 Wire Wire Line
 	5350 6500 5350 6600
 Connection ~ 5350 6600
+Text Notes 7000 7000 0    43   ~ 0
+You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2. (http://ohwr.org/cernohl). \nThis documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY \nQUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v.1.2  for applicable conditions
+Text Notes 500  650  0    43   ~ 0
+Copyright generationmake 2020\nsee full project documentation at https://github.com/generationmake/VidorBreakout
 $EndSCHEMATC
